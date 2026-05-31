@@ -8,7 +8,7 @@ public class TestConexion {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/sigae_muni";
         String user = "root";
-        String pass = "Rocio0405."; // la que usaste en MySQL
+        String pass = "Rocio0405.";
 
         try (Connection conn = DriverManager.getConnection(url, user, pass)) {
             System.out.println("¡Conexión exitosa a la base de datos!");
