@@ -51,7 +51,7 @@ SIGAE-Muni/
 │       ├── persistencia/   # Conexión JDBC y DAOs
 │       ├── ui/             # Menú de consola
 │       └── excepciones/    # Excepciones personalizadas
-├── db.properties.example   # Plantilla de configuración
+├── db.properties   # Plantilla de configuración
 ├── .gitignore
 └── README.md
 ```
@@ -76,7 +76,7 @@ SIGAE-Muni/
    source seed.sql;
    ```
 
-2. Copiá `db.properties.example` y renombralo como `db.properties`:
+2. Copiá `db.properties` :
    ```
    db.url=jdbc:mysql://localhost:3306/sigae_muni
    db.user=root
