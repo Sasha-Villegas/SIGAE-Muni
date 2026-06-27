@@ -1,0 +1,13 @@
+========================================
+  SIGAE-Muni — Resumen Estadístico
+  Generado: 25/06/2026 20:11:47
+========================================
+
+  • Total edificios: 4
+  • Total alertas pendientes: 1
+  • Consumo promedio alertas: 210.50 kWh
+  • Consumo máximo: 210.50 kWh
+  • Consumo mínimo: 210.50 kWh
+  • Consumo total alertas: 210.50 kWh
+
+========================================
