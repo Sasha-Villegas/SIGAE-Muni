@@ -164,7 +164,4 @@ Seminario de Práctica — Profesora Ana Carolina Ferreyra
 
 ---
 
-## 👩‍💻 Autora
-
-**Sasha Villegas** — Estudiante de Licenciatura en Informática, Universidad Siglo 21  
 
