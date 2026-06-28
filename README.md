@@ -15,7 +15,7 @@ Proyecto integrador desarrollado para el Seminario de Práctica de la Licenciatu
 ## 🎥 Video de demostración
 
 <!-- VIDEO_PLACEHOLDER -->
-> El video de demostración del sistema será publicado aquí próximamente.
+[> El video de demostración del sistema.](https://drive.google.com/drive/folders/1d-2l2NNKK_-KoVcZzVIpgdQsgIr6_HgC?usp=sharing)
 
 ---
 
